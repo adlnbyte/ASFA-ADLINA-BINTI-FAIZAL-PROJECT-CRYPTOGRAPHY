@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CustomFeistelCipherDemo
+comment1.params=masterKey
+comment1.target=int[]\ generateRoundKeys(int)
+comment10.params=data
+comment10.target=java.lang.String\ bytesToHex(byte[])
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=right\ roundKey
+comment2.target=int\ roundFunction(int,\ int)
+comment3.params=plaintext\ masterKey
+comment3.target=long\ encryptBlock(long,\ int)
+comment4.params=ciphertext\ masterKey
+comment4.target=long\ decryptBlock(long,\ int)
+comment5.params=left\ right
+comment5.target=long\ combineHalves(int,\ int)
+comment6.params=plaintext\ masterKey
+comment6.target=byte[]\ encrypt(java.lang.String,\ int)
+comment7.params=ciphertext\ masterKey
+comment7.target=java.lang.String\ decrypt(byte[],\ int)
+comment8.params=data\ offset
+comment8.target=long\ bytesToLong(byte[],\ int)
+comment9.params=value\ data\ offset
+comment9.target=void\ longToBytes(long,\ byte[],\ int)
+numComments=12

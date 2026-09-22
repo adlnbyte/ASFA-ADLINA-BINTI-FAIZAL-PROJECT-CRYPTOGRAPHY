@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StreamCipherDemo
+comment1.params=length
+comment1.target=byte[]\ generateKey(int)
+comment2.params=key
+comment2.target=int[]\ initializeState(byte[])
+comment3.params=key\ length
+comment3.target=byte[]\ generateKeystream(byte[],\ int)
+comment4.params=plaintext\ key
+comment4.target=byte[]\ encrypt(java.lang.String,\ byte[])
+comment5.params=ciphertext\ key
+comment5.target=java.lang.String\ decrypt(byte[],\ byte[])
+comment6.params=data
+comment6.target=java.lang.String\ toHex(byte[])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
